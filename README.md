@@ -31,7 +31,4 @@ To analyze sales data and create an interactive dashboard that helps in understa
 📁 **Project Folder:**  
 `Practice-1`
 
-📸 **Dashboard Preview:**  
-(Add screenshot here)
-
 ---
